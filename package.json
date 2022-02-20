@@ -1,0 +1,23 @@
+{
+  "name": "packge-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunogomesdeveloper/packge-test.git"
+  },
+  "keywords": [],
+  "author": "Bruno Gomes <brunogomesdeveloper@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunogomesdeveloper/packge-test/issues"
+  },
+  "homepage": "https://github.com/brunogomesdeveloper/packge-test#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
